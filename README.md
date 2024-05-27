@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ValmirDoCSS/ValmirDoCSS/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ValmirDoCSS/ValmirDoCSS/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
